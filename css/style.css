@@ -1,0 +1,45 @@
+.header-img {
+    background:url(../img/img3.jpg) no-repeat;
+    height:500px;
+    width:100%;
+}
+.img-text {
+    padding-top: 70px;
+}
+.mid-text {
+    background-color: #ebeaea63;
+}
+img.hexahan {
+    height: 70px;
+    width: auto;
+}
+.secon-last{
+    background-color: #ebeaea63;
+}
+.footer {
+    background-color: #553b5a;
+}
+.hex{
+    position: relative;
+}
+.hex span {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: inline;
+    text-align: center;
+    left:0;
+    transform: translateY(-50%);
+}
+.hover-cls:hover{
+    box-shadow: 0px 1px 18px #ddd2d2;
+}
+
+.img-te {
+    border: 1px solid #ddd2d2;
+}
+.backgroung-img{
+    background: url(../img/pk.webp) no-repeat;
+    height:500px;
+    width:auto;
+}
